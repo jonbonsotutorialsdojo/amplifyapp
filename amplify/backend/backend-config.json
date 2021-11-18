@@ -41,5 +41,12 @@
         }
       }
     }
+  },
+  "predictions": {
+    "interpretText0d8210bd": {
+      "providerPlugin": "awscloudformation",
+      "service": "Comprehend",
+      "interpretType": "interpretText"
+    }
   }
 }
